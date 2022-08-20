@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Javascript on d2code</title>
+    <link>/series/javascript/</link>
+    <description>Recent content in Javascript on d2code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/series/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript</title>
+      <link>/posts/demo/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/demo/</guid>
+      <description>Demo page about Javascript from W3Schools, all contents taken from &lt;a href=&#34;https://www.w3schools.com/&#34;&gt;https://www.w3schools.com/&lt;/a&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
