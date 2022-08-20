@@ -6,7 +6,16 @@
     <description>Recent content in Posts on d2code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Statement in Javascript</title>
+      <link>/posts/demo-2/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/demo-2/</guid>
+      <description>Basic of statements in Javascript and programming languages in general</description>
+    </item>
+    
     <item>
       <title>Javascript</title>
       <link>/posts/demo/</link>
