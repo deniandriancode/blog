@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://deniandriancode.github.io/sitemap.xml
