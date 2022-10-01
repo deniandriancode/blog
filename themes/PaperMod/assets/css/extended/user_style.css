@@ -1,0 +1,9 @@
+:root {
+        --link-hover: #d8863f;
+}
+
+header a:hover:not([title="Home (Alt + H)"]),
+.post-content a:hover {
+        color: var(--link-hover);
+}
+

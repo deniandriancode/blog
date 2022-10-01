@@ -37,7 +37,6 @@ editPost:
 
 ![image of kitten](/posts/why-do-kittens-img/img.jpg)  
 
-
 If you’ve been lucky enough to foster a mom cat with kittens or orphaned kittens, you may have been curious about some of their endearing behaviors. What kitten behaviors, in addition to these listed in our Tuesday Tips, have you wondered about or observed?
 
 Did you know that kittens start purring when they are just 2 days old? They purr to persuade their mothers to continue nursing them. Mom keeps them well fed so they purr and sleep instead of crying, which would attract predators. 
