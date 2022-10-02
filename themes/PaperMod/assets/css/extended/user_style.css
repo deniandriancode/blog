@@ -7,3 +7,6 @@ header a:hover:not([title="Home (Alt + H)"]),
         color: var(--link-hover);
 }
 
+span.active {
+    color: var(--link-hover);
+}

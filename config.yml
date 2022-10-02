@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: tadreeb
   description: "Explore the internet with ease, no need to haste"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, PaperMod, Programming, Linux]
   author: deniandriancode
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -120,6 +120,10 @@ menu:
     - identifier: posts
       name: Posts
       url: /posts/
+      weight: 20
+    - identifier: tutorials
+      name: Tutorials
+      url: /tutorials/
       weight: 20
     - identifier: tags
       name: Tags
