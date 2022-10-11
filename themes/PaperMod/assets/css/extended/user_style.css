@@ -10,3 +10,15 @@ header a:hover:not([title="Home (Alt + H)"]),
 span.active {
     color: var(--link-hover);
 }
+
+blockquote {
+    background-color: #f0f0f0;
+}
+
+body.dark blockquote {
+    background-color: #212121;
+}
+
+blockquote p {
+    padding: 15px 0;
+}

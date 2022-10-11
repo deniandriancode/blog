@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: tadreeb
-  description: "Explore the internet with ease, no need to haste"
+  description: "Explore the internet with ease, no need to haste. I write things about linux, programming, and other nerdy stuffs."
   keywords: [Blog, Portfolio, PaperMod, Programming, Linux]
   author: deniandriancode
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -59,7 +59,7 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: tadreeb
-    subtitle: "Explore the internet with ease, no need to haste"
+    subtitle: "Explore the internet with ease, no need to haste.  I write things about linux, programming, and other nerdy stuffs."
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
@@ -73,7 +73,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "tadreeb"
-    Content: Explore the internet with ease, no need to haste
+    Content: Explore the internet with ease, no need to haste. I write things about linux, programming, and other nerdy stuffs.
 
   socialIcons:
     - name: twitter
@@ -120,10 +120,6 @@ menu:
     - identifier: posts
       name: Posts
       url: /posts/
-      weight: 20
-    - identifier: tutorials
-      name: Tutorials
-      url: /tutorials/
       weight: 20
     - identifier: tags
       name: Tags
