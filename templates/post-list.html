@@ -1,0 +1,8 @@
+<ul class="list-group my-5">
+    $for(posts)$
+        <li class="list-group-item py-4">
+            <a href="$url$" class="text-secondary">$title$</a> - <small class="text-muted">$date$</small>
+            <p class="mb-0"><small>$desc$</small></p>
+        </li>
+    $endfor$
+</ul>

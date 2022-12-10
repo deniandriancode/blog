@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'jetbrains';
+    src: url('/font/JetBrainsMonoNerdFontComplete-Regular.woff2') format('woff2'),
+        url('/font/JetBrainsMonoNerdFontComplete-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'redhat';
+    src: url('/font/RedHatDisplay-Medium.woff2') format('woff2'),
+        url('/font/RedHatDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+html {
+    font-size: 15px;
+}
+
+.nav-link {
+    cursor: pointer;
+}
+
+body {
+    font-family: "redhat"
+}
+
+pre {
+    font-family: "jetbrains";
+}
+
+body.dark, body.dark main ul li {
+    background-color: #202020;
+    color: #cccccc;
+}
+
+body.dark main *:not(pre *) {
+    border-color: #555555;
+}
+
+img {
+    margin: .5rem 0;
+    border-radius: .3rem;
+    max-width: 100%;
+    height: auto;
+}
+
+#goto-top {
+    position: fixed;
+    cursor: pointer;
+    right: 15px;
+    bottom: 0;
+    opacity: .5;
+    display: none;
+}
+
+pre {
+    border-radius: .5rem;
+}
+
+@media screen and (max-width: 768px) {
+    html {
+        font-size: 13px;
+    }
+}
